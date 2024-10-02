@@ -1,15 +1,15 @@
 # Exploring Multilingual Probing in Large Language Models: A Cross-Language Analysis
 
+Official Repository for Paper: Exploring Multilingual Probing in Large Language Models: A Cross-Language Analysis
 
 
 
 
-## Citation
 
 
 ## Contact
 
-Michael Ryan: [Scholar](https://scholar.google.com) | [Twitter](https://twitter.com) | [Github](https://github.com) | [LinkedIn](https://linkedin.com) | [Research Gate](https://www.researchgate.net) | [Personal Website](https://example.com) | michaeljryan@stanford.edu
+Daoyang Li: daoyangl@usc.edu
 
 ## Citation
 
@@ -23,6 +23,5 @@ If you use this code please cite our paper:
       eprint={2409.14459},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2409.14459} }
-
-code used for https://arxiv.org/abs/2409.14459
+      url={https://arxiv.org/abs/2409.14459}
+}

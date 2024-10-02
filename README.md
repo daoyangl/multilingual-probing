@@ -1,6 +1,8 @@
 # Exploring Multilingual Probing in Large Language Models: A Cross-Language Analysis
 
-Official Repository for Paper: [Exploring Multilingual Probing in Large Language Models: A Cross-Language Analysis](https://arxiv.org/abs/2409.14459)
+Official Repository for Paper: Exploring Multilingual Probing in Large Language Models: A Cross-Language Analysis
+
+Paper link: https://arxiv.org/abs/2409.14459 
 
 ![acc_trends](acc_trends.jpg)
 

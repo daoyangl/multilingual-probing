@@ -2,7 +2,7 @@
 
 Official Repository for Paper: Exploring Multilingual Probing in Large Language Models: A Cross-Language Analysis
 
-![Project Image](acc_trands.jpg)
+![acc_trends](acc_trends.jpg)
 
 
 

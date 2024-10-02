@@ -6,6 +6,7 @@ Paper link: https://arxiv.org/abs/2409.14459
 
 ![acc_trends](acc_trends.jpg)
 
+Figure 1: Layer-wise probing accuracy of 5 open-source LLMs across 16 languages.
 
 
 

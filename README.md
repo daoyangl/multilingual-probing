@@ -13,16 +13,16 @@ Michael Ryan: [Scholar](https://scholar.google.com) | [Twitter](https://twitter.
 
 ## Citation
 
-If you use this code or our AskRedditCountries dataset please cite our paper:
+If you use this code please cite our paper:
 
 ```bibtex
-@misc{ryan2024unintended,
-  title={Unintended Impacts of LLM Alignment on Global Representation},
-  author={Michael J. Ryan and William Held and Diyi Yang},
-  year={2024},
-  eprint={2402.15018},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
-}
+@misc{li2024exploringmultilingualprobinglarge,
+      title={Exploring Multilingual Probing in Large Language Models: A Cross-Language Analysis}, 
+      author={Daoyang Li and Mingyu Jin and Qingcheng Zeng and Haiyan Zhao and Mengnan Du},
+      year={2024},
+      eprint={2409.14459},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.14459} }
 
 code used for https://arxiv.org/abs/2409.14459

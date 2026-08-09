@@ -11,11 +11,6 @@ Paper link: https://arxiv.org/abs/2409.14459
 Figure 1: Layer-wise probing accuracy of 5 open-source LLMs across 16 languages.
 
 
-
-## Contact
-
-Daoyang Li: daoyangl@usc.edu
-
 ## Citation
 
 If you use this code please cite our paper:
